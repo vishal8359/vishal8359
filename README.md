@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
-<h3 align="center">Full Stack Developer | MERN | JavaScript Enthusiast | Community Builder</h3>
+<h3 align="center">Full Stack Developer | MERN | Programmer | C++ | Community Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+solving+real-world+problems;Building+community-driven+apps;Open-source+contributor+and+tech+enthusiast" alt="Typing SVG" />
