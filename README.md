@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer with a love for building robust, community
   <img src="https://img.shields.io/badge/-OOP-F7DF1E?style=flat-square&logo=oop" alt="OOP" />
   <img src="https://img.shields.io/badge/-Operating%20Systems-000000?style=flat-square&logo=linux" alt="Operating Systems" />
   <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-green?style=flat-square" alt="DSA" />
-  <img src="https://img.shields.io/badge/-RESTful%20APIs-red?style=flat-square" alt="RESTful APIs" />
+  <img src="https://img.io/badge/-RESTful%20APIs-red?style=flat-square" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" alt="JWT" />
   <br>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
@@ -59,6 +59,14 @@ I'm a passionate Full Stack Developer with a love for building robust, community
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishal8359&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishal8359&theme=radical" />
+</p>
+
+---
+
+### 🏆 Top Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-repos/?username=vishal8359&layout=compact&theme=radical" />
 </p>
 
 ---
