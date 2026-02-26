@@ -89,8 +89,8 @@ const vishal = {
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vishal8359&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" />
-
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=vishal8359&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B" />
+https://github-readme-streak-stats.herokuapp.com?user=vishal8359&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B
 </div>
 
 ---
