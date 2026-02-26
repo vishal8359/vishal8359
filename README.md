@@ -1,76 +1,117 @@
-# Hi there 👋, I'm Vishal Gupta
+<div align="center">
 
-### <p align="center">Full Stack Developer | MERN | Competitive Programmer</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishal%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+solving+real-world+problems;Building+community-driven+apps;Open-source+contributor+and+tech+enthusiast" alt="Typing SVG" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+TypeScript+%7C+Next.js;500%2B+Bugs+Squashed+%F0%9F%90%9B%E2%9C%85;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gupta-65068b257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-theta-azure-17.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalgupta8359@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-Gupta-1)
 
-I'm a passionate Full Stack Developer with a love for building robust, community-driven applications. My current focus is on **cloud computing**, where I apply my expertise in the MERN stack to create scalable and user-centric solutions. With a keen eye for detail, I have diagnosed and fixed over **500 frontend and backend bugs** to improve application performance and user experience. I am always learning and exploring new technologies, with a particular interest in **TypeScript**, **Next.js**, and **AI integrations**.
-
----
-
-### 🛠️ My Toolbox
-
-#### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus" alt="C++" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql" alt="SQL" />
-  <br>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <br>
-  <img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socketdotio" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=mui" alt="Material UI" />
-</p>
-
-#### Core Concepts & Platforms
-<p>
-  <img src="https://img.shields.io/badge/-System%20Design-6C63FF?style=flat-square&logo=design-systems" alt="System Design" />
-  <img src="https://img.shields.io/badge/-OOP-F7DF1E?style=flat-square&logo=oop" alt="OOP" />
-  <img src="https://img.shields.io/badge/-Operating%20Systems-000000?style=flat-square&logo=linux" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-green?style=flat-square" alt="DSA" />
-  <img src="https://img.shields.io/badge/-RESTful%20APIs-red?style=flat-square" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" alt="JWT" />
-  <br>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
-</p>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishal8359&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vishal8359&theme=radical" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-gupta-65068b257/)
-- 🌐 [Portfolio](https://portfolio-theta-azure-17.vercel.app/)
-- 📨 Email: vishalgupta8359@gmail.com
+```typescript
+const vishal = {
+  role       : "Full Stack Developer",
+  stack      : ["MongoDB", "Express.js", "React", "Node.js"],
+  exploring  : ["TypeScript", "Next.js", "AI Integrations", "Cloud Computing"],
+  achievement: "Diagnosed & fixed 500+ frontend/backend bugs 🐛",
+  goal       : "Building robust, scalable, community-driven applications",
+  available  : true  // Open to exciting opportunities!
+};
+```
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal8359&theme=radical" />
-</p>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+#### ⚡ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishal-Gupta-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Gupta-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+<br/>
+
+<!-- 🔥 Streak Fix: Using streak-stats.demolab.com (more reliable, no zero-streak bug) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=Vishal-Gupta-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vishal-Gupta-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Gupta-1&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+**⚡ "Code is not just syntax — it's the bridge between imagination and reality." ⚡**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vishal-Gupta-1&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
