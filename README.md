@@ -84,13 +84,13 @@ const vishal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal8359&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal8359&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal8359&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=vishal8359&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B" />
-https://github-readme-streak-stats.herokuapp.com?user=vishal8359&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=vishal8359&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&theme=tokyonight&custom_title=Total%20Contributions%20(Including%20Private)" />
+
 </div>
 
 ---
