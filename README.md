@@ -95,12 +95,9 @@ available  : true  // Open to exciting opportunities!
 
 ## 🏆 Achievements
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishal8359&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal8359&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&cache_seconds=86400" />
+</p>
 ---
 
 ## 📈 Contribution Activity
