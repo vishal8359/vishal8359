@@ -25,7 +25,7 @@ const vishal = {
 role       : "Software Developer",
 stack      : ["MongoDB", "Express.js", "React", "React Native", "Node.js",
 "TypeScript", "Python", "LangChain", "Vector DB"],
-aiToolkit  : ["LangChain", "Embedding Models", "Vector DBs", "Redis", "Agentic AI", "RAG", "Langraph "],
+aiToolkit  : ["LangChain", "Embedding Models", "Vector DBs", "Redis", "Agentic AI", "RAG", "Langraph", "Faiss" ],
 exploring  : ["TypeScript", "Next.js", "AI Integrations", "Cloud Computing"],
 achievement: "Diagnosed & fixed 500+ frontend/backend bugs 🐛",
 goal       : "Building robust, scalable, community-driven applications",
