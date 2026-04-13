@@ -29,7 +29,7 @@ aiToolkit  : ["LangChain", "Embedding Models", "Vector DBs", "Redis", "Agentic A
 exploring  : ["TypeScript", "Next.js", "AI Integrations", "Cloud Computing"],
 achievement: "Diagnosed & fixed 500+ frontend/backend bugs 🐛",
 goal       : "Building robust, scalable, community-driven applications",
-available  : true  // Open to exciting opportunities!
+available  : true 
 };
 ```
 
